@@ -1,0 +1,25 @@
+# Build folders
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Binaries
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.pdb
+
+# Logs
+*.log
